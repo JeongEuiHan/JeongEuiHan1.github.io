@@ -3,20 +3,20 @@ layout: post
 title:  "Work"
 ---
 
-###telephone book programming
+telephone book programming\n
 This programming is...
 Search for the number you want person.
 Add phone number.
 Delete phone number.
 
-###video programming
+video programming\n
 This programming is...
 You can sign up as a member.
 You can view a list of available videos.
 When you sign up as a member, you can rent and return the video.
 
 
-###flash memory programming
+flash memory programming\n
 This programming is...
 You can set memory capacity.
 You can specify a character in the memory space.
